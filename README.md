@@ -3,6 +3,10 @@
 ## Description
 This project is a QR code generator website. Users can input text or URLs to generate QR codes, which will be displayed on the website.
 
+## Versions
+- **index.html** - Full-featured QR code generator with styling, error handling, and download functionality
+- **minimal.html** - Minimal QR code generator with bare-bones functionality
+
 ## Setup and Run Locally
 1. Clone the repository:
    ```
@@ -12,7 +16,7 @@ This project is a QR code generator website. Users can input text or URLs to gen
    ```
    cd qrqr
    ```
-3. Open `index.html` in your web browser to view the QR code generator website.
+3. Open `index.html` or `minimal.html` in your web browser to view the QR code generator website.
 
 ## Deploy to Cloudflare Pages
 1. Log in to your Cloudflare account and navigate to the Pages section.
